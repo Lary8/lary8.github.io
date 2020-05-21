@@ -1,0 +1,38 @@
+/* BEGIN (write your solution here) */
+p {
+	margin-bottom: 12px;
+}
+
+h1, h2 {
+	font-weight: 400;
+}
+
+h1 {
+	font-size: 36px;
+	margin-bottom: 0;
+}
+
+h2 {
+	font-size: 32px;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: "#808080";
+	margin-bottom: 8px;
+}
+
+h2.header-title {
+   font-size: 18px;
+   border-bottom-style: none;
+   margin-bottom: 10px;
+}
+
+#header {
+	margin-bottom: 32px;
+	text-align: center;
+}
+
+#footer {
+	margin-top:64px;
+	text-align: center;
+}
+/* END */
